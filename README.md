@@ -1,7 +1,7 @@
 # myntra-lowest-price-tracker
 A telegram bot that keeps a track of the lowest prices of any product on Myntra
 
-<h3>I reverse engineered Myntra's (eCommerce website) private API. I'm here to discuss a small project done by me Please note that: I do not leak any private information and I'm sharing it for educational purposes, do not claim any responsibility or legality.</h3>
+Using Myntra's (eCommerce website) private API. I'm here to discuss a small project done by me Please note that: I do not leak any private information and I'm sharing it for educational purposes, and do not claim any responsibility or legality.
 
 <b>This bot does a few things:</b> scrape all publicly available data of a specific product and let users know if the price changes, users can also check Highest, Lowest, and Average prices
 
@@ -18,4 +18,8 @@ A telegram bot that keeps a track of the lowest prices of any product on Myntra
 
 
 Very simple project but helpful, because everyone likes to spend less. 
+
+
+
+
 
