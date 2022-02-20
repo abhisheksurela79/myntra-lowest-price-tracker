@@ -1,0 +1,2 @@
+bot login session will be created on cache folder.
+don't delete cache folder.
