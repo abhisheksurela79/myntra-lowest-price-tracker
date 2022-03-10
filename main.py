@@ -24,7 +24,7 @@ async def start(event):
     AllUsersDB().new_user(chat_id=event.chat.id, name=event.chat.first_name)
 
     msg = "I can keep a track of lowest prices of any product on Myntra. and notify you in no time, if the price " \
-        "changes for a product you are following. With me you can check `Highest`, `Lowest` and `Average` price..\n " \
+        "changes for a product you are following. With me you can check `Highest`, `Lowest` and `Average` price..\n\n" \
         "check more cool features by sending me a direct link to any Myntra product you ❤️"
     
     await bot.send_message(event.chat.id, f"**Hi {event.chat.first_name}**, {msg}", link_preview=False)
